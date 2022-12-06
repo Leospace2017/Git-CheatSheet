@@ -24,6 +24,8 @@
 
 - git reset ``(nimmt die Vormerkungen zurück ohne es zu ändern)``
 
+- git restore ``(ändert die dateien zum gespeicherten Punkten zurück)``
+
 - git stash  ``(speichern stagen)``
 
 - git config --global user.name/user.email ``(Konfiguriere user und Email für allen Lokalen Repos )``
