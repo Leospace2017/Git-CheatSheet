@@ -32,6 +32,9 @@
 
 - git switch ``(hier funktioniert wie git checkout kann zwischen die Branchen gewechselt werden)``
 
+- git rm -r --cached ``(beim gitignore was falsches gemacht und die datein nochmals löschen)``
+
+- touch .gitignore ``(erstellt dateien wo nicht hochgeladen sollen)``
 
 
 
