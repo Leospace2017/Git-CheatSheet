@@ -36,6 +36,8 @@
 
 - touch .gitignore ``(erstellt dateien wo nicht hochgeladen sollen)``
 
+- git config --global init.defaultBranch main ``(ändert die defaultname master zu main)``
+
 
 
 
